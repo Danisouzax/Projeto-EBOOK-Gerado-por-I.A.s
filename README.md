@@ -17,5 +17,11 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de Educação e IA e o subnicho é IA e didatica, o ebookk é do nicho de Educação o e o subnicho é de IA, o título deve ser épico e curto, e tenha uma temática das ideias de Paulo Freire.                                                        |
-| conteúdo | Faça um texto para ebook , com foco em Educação e IA, fazendo um texto argumentativo. {REGRAS} Explique sempre de uma maneira simples Deixe o texto coeso e coerente, Sempre traga citações e comparações positivas e negativas |
+|  título  | Crie um título de um ebook sobre o tema de Educação e IA e o subnicho é IA e didatica, o título deve ser épico e curto, e tenha uma temática das ideias de Paulo Freire.                                                        |
+| conteúdo | Faça um texto para ebook, com foco em Educação e IA, fazendo um texto argumentativo. {REGRAS} Explique sempre de uma maneira simples e que deixe o texto coeso e coerente, sempre traga citações e comparações positivas e negativas |
+
+Firefly：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
