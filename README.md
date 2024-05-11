@@ -24,4 +24,10 @@ Firefly：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Usei as ideias de Paulo Freire e Inteligência Artificial para criar uma imagem criativa |
+
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via Firefly
+
